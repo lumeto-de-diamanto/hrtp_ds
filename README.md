@@ -28,7 +28,7 @@ make
 
 ## AI disclaimer
 
-AI was used to create the scripts in /tools, and that is where it will stay. **No AI-generated code shall be in the game codebase itself.**
+AI was used to create the scripts in /tools, and that is where it will stay. **No AI-generated code shall be in the game codebase itself, nor anywhere outside of /tools.**
 
 ## Special thanks
 

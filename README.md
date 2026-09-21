@@ -11,7 +11,7 @@ The following are required to build the project:
 * GCC and C++
 * Python 3
 * The Wonderful Toolchain package manager [(instructions here)](https://wonderful.asie.pl/wiki/doku.php?id=getting_started)
- * Including the blocksds-toolchain package, from the blocksds repo
+* The blocksds-toolchain package, from the blocksds repo
 * Extracted files from HRtP
 
 Place all the extracted HRtP files into /assets; if you have the game as an .hdi file, you can extract the files using tools like [98ripper](https://gitlab.com/bunnylin/98ripper). **Make sure that among them there's a file named *東方靈異.伝***; if there's a file with a garbled mojibake name, that's likely it, just rename it to *東方靈異.伝* and you'll probably be fine.
@@ -25,6 +25,10 @@ make
 ## Screenshot
 
 ![screenshot](./readme/screenshot.png)
+
+## AI disclaimer
+
+AI was used to create the scripts in /tools, and that is where it will stay. **No AI-generated code shall be in the game codebase itself.**
 
 ## Special thanks
 

@@ -16,7 +16,7 @@ The following are required to build the project:
 
 Place all the extracted HRtP files into /assets; if you have the game as an .hdi file, you can extract the files using tools like [98ripper](https://gitlab.com/bunnylin/98ripper). **Make sure that among them there's a file named *東方靈異.伝***; if there's a file with a garbled mojibake name, that's likely it, just rename it to *東方靈異.伝* and you'll probably be fine.
 
-Once the extracted files are in place, and the compilers and toolchain are set up, simply run this command, and the file *hrtp_ds.nes* will be created:
+Once the extracted files are in place, and the compilers and toolchain are set up, simply run this command, and the file *hrtp_ds.nds* will be created:
 
 ```bash
 make

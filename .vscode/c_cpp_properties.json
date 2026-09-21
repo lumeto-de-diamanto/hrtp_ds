@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Wonderful (gcc-arm-none-eabi)",
+            "includePath": [
+                "/opt/wonderful/toolchain/gcc-arm-none-eabi/arm-none-eabi/include/**",
+                "/opt/wonderful/toolchain/gcc-arm-none-eabi/arm-none-eabi/include/c++/**",
+                "/opt/wonderful/thirdparty/blocksds/core",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/wonderful/toolchain/gcc-arm-none-eabi/bin/arm-none-eabi-gcc",
+            "intelliSenseMode": "gcc-arm",
+            "compileCommands": "compile_commands.json"
+        }
+    ],
+    "version": 4
+}
